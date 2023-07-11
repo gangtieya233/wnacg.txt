@@ -165,7 +165,7 @@
 {"key": "爱播资源","name": "爱播资源","type": 1,"api": "https://cj1.apiabzy.com/api.php/provide/vod/?ac=list","playUrl": "https://player.aibozyplayer.com/m3u8/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "小姐姐资源","name": "小姐姐资源","type": 0,"api": "https://xjjzyapi.com/home/cjapi/askl/mc/vod/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "zp011","name": "乐播资源","type": 0,"api": "https://lbapi9.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
-{"key": "zp059","name": "番号资源","type": 0,"api": "http://fhapi9.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 0},
+{"key": "zp059","name": "番号资源","type": 0,"api": "https://91md.me/api.php/provide/vod/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "老鸭资源","name": "老鸭资源","type": 0,"api": "https://api.apilyzy.com/api.php/provide/vod/at/xml","playUrl": "https://player.77lehuo.com/aliplayer/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "花椒资源","name": "花椒资源","type": 0,"api": "https://apihjzy.com/api.php/provide/vod/at/xml/","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key": "酷豆资源网","name": "酷豆资源网","type": 1,"api": "https://api.kdapi.info/api.php/provide/vod/","playUrl": "https://jx.kubohk.com/jx/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
